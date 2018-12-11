@@ -1,2 +1,1 @@
-console.log("Component One");
-console.log("modified ComponentOne");
+console.log('Component One');
