@@ -1,2 +1,1 @@
-console.log("excluded one");
-console.log("modified excluded file one");
+console.log('excluded one');
