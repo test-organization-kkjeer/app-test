@@ -1,2 +1,3 @@
 # bot-test
-test
+
+This repo is for bot validation. 
